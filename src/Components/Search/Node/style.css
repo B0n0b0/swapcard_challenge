@@ -1,0 +1,20 @@
+.Carte {
+    width: 40%;
+    padding : 8px;
+    display: inline-block;
+    min-width: 300px;
+}
+
+.Retour Button {
+    background-color: green;
+    display: block;
+    margin-left: calc(12.5%);
+    color: white;
+}
+
+.Retour Button:hover {
+    background-color: green;
+}
+.Plus{
+    margin: auto;
+}

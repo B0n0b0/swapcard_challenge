@@ -1,0 +1,22 @@
+.Profil {
+    margin-top : -30.75px;
+}
+
+.Follow Button{
+    background-color: green;
+    display: block;
+    margin-left: calc(12.5% + 80px);
+    color: white;
+}
+
+.Follow Button:hover{
+    background-color: green;
+}
+
+.coverArtist {
+    max-width: 75%;
+    margin: auto;
+    display: flex;
+    padding: 16px 0;
+
+}
